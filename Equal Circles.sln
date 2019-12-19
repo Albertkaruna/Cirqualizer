@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3218FBF5-EF1E-3253-6578-9D66E2D9BC76}") = "Equal Circles", "Assembly-CSharp-firstpass.csproj", "{59957266-3227-6450-A930-DFE4C8D246BB}"
+EndProject
+Project("{3218FBF5-EF1E-3253-6578-9D66E2D9BC76}") = "Equal Circles", "Assembly-CSharp.csproj", "{B8ED51BF-BCFA-F1E4-82FE-CDD2685FAA2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59957266-3227-6450-A930-DFE4C8D246BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59957266-3227-6450-A930-DFE4C8D246BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59957266-3227-6450-A930-DFE4C8D246BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59957266-3227-6450-A930-DFE4C8D246BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8ED51BF-BCFA-F1E4-82FE-CDD2685FAA2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8ED51BF-BCFA-F1E4-82FE-CDD2685FAA2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8ED51BF-BCFA-F1E4-82FE-CDD2685FAA2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8ED51BF-BCFA-F1E4-82FE-CDD2685FAA2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
