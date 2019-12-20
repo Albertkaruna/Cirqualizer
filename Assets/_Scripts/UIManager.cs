@@ -2,7 +2,6 @@
 using System.Collections;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
-using System.Security.Policy;
 
 public class UIManager : MonoBehaviour
 {
